@@ -1,0 +1,116 @@
+ .sex
+ {
+ 	height: 500px;
+ 	padding-top: 100px;
+ 	margin-top: 50px;
+	padding-left: 100px;
+	color: #fff; 
+ }
+ .sex h3
+ {
+ 	font-size: 25px;
+
+ }
+ .sex h1
+ {
+ 	font-size: 70px;
+ 	font-weight: bold;
+  }
+ .sex h5
+ {
+ 	font-size: 15px;
+ 	line-height: 10px;
+ }
+ .sex button
+ {
+ 	margin-top: 15px;
+ 	width: 90px;
+ 	height: 50px;
+ 	border-radius: 50px;
+ 	margin-right: 10px;
+ 	border:3px solid #fff;
+ 	 
+
+ }
+ .bout1
+ {
+ 	 background-color: rgba(180,15,0,0.5);
+ 	 color:white;
+ 	 font-weight: bold;
+ }
+ .bout2
+ {
+ 	 background-color: rgba(255,255,255,0);
+ 	 color:white;
+ 	 font-weight: bold;
+
+ }
+ .carousel
+ {
+ 	margin-top: 25px;
+ }
+ .service
+ {
+ 	text-align: center;
+ }
+ .service h1
+ {
+ 	 margin-bottom: 20px;
+ 	 font-weight: bold;
+ }
+ .service1
+ {
+ 	float: left;
+ 	display: inline-block;
+ }
+#step ul li
+{
+	width: 300px;
+	list-style: none;
+	text-align: center;
+	float: right;
+	margin-right: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+#step p
+{
+	font-size: 15px;
+	line-height: 20px;
+	color: rgba(0,0,0,0.5);
+	margin-top: 50px;
+}
+#step1
+{
+	background: url('steps1.png') no-repeat top center;
+}
+
+#step h4
+{
+	margin-top: 120px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#step2
+{
+	background: url('steps2.png') no-repeat top center;
+}
+#step3
+{
+	background: url('steps3.png') no-repeat top center;
+}
+.service h1
+{
+	font-weight: bold;
+}
+.service p
+{
+	font-size: 15px;
+	line-height: 20px;
+	color: rgba(0,0,0,0.5);
+}
+.navbar .collapse ul li
+{
+	text-align: right;
+}
